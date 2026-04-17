@@ -1,29 +1,30 @@
 {
-  "storeInfo": {
-    "title": "My Scratch Games",
-    "author": "allygunkz",
-    "description": "Wireless Scratch transfers",
-    "url": "https://githubusercontent.com",
-    "file": "game.unistore",
-    "version": 3
-  },
-  "storeContent": [
-    {
-      "info": {
-        "title": "Shooting Games",
+    "storeInfo": {
+        "title": "AllyGunkz Store",
         "author": "allygunkz",
-        "description": "My first game",
-        "category": ["Games"],
-        "console": ["3DS"],
-        "version": "1.0"
-      },
-      "script": [
+        "description": "My Scratch games wirelessly",
+        "url": "https://githubusercontent.com",
+        "file": "game.unistore",
+        "revision": 1,
+        "version": 4
+    },
+    "storeContent": [
         {
-          "type": "downloadFile",
-          "file": "https://githubusercontent.com",
-          "output": "sdmc:/3ds/scratch-everywhere/ShootingGames.sb3"
+            "info": {
+                "title": "Shooting Games",
+                "author": "allygunkz",
+                "description": "My first scratch game",
+                "category": ["game"],
+                "console": ["3DS"],
+                "version": "v1.0"
+            },
+            "ShootingGames.sb3": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://githubusercontent.com",
+                    "output": "sdmc:/3ds/scratch-everywhere/ShootingGames.sb3"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
