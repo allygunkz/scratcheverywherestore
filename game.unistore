@@ -1,8 +1,8 @@
 {
   "storeInfo": {
-    "title": "AllyGunkz Store",
+    "title": "My Scratch Games",
     "author": "allygunkz",
-    "description": "Scratch Games for 3DS",
+    "description": "Wireless Scratch transfers",
     "url": "https://githubusercontent.com",
     "file": "game.unistore",
     "version": 3
@@ -12,7 +12,7 @@
       "info": {
         "title": "Shooting Games",
         "author": "allygunkz",
-        "description": "My Scratch game collection",
+        "description": "My first game",
         "category": ["Games"],
         "console": ["3DS"],
         "version": "1.0"
