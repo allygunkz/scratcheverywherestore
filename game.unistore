@@ -1,8 +1,8 @@
 {
   "storeInfo": {
     "title": "My Scratch Store",
-    "author": "YourName",
-    "description": "Wireless transfer for my Scratch games",
+    "author": "allygunkz",
+    "description": "Wireless transfer for Scratch games",
     "url": "https://githubusercontent.com",
     "file": "game.unistore",
     "version": 3
@@ -11,17 +11,17 @@
     {
       "info": {
         "title": "Shooting Game",
-        "author": "YourName",
-        "description": "My Scratch game",
-        "category": ["game"],
+        "author": "allygunkz",
+        "description": "My first Scratch game",
+        "category": ["Games"],
         "console": ["3DS"],
         "version": "1.0"
       },
-      "Shooting Game.sb3": [
+      "script": [
         {
           "type": "downloadFile",
           "file": "https://github.com",
-          "output": "sdmc:/3ds/scratch-everywhere/Shooting Game.sb3"
+          "output": "sdmc:/3ds/scratch-everywhere/ShootingGame.sb3"
         }
       ]
     }
