@@ -21,7 +21,7 @@
       "ShootingGames.sb3": [
         {
           "type": "downloadFile",
-          "file": "https://githubusercontent.com",
+          "file": "https://github.com/allygunkz/scratcheverywherestore/raw/refs/heads/main/ShootingGames.sb3",
           "output": "sdmc:/3ds/scratch-everywhere/ShootingGames.sb3"
         }
       ]
