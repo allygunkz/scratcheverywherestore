@@ -1,30 +1,30 @@
 {
-    "storeInfo": {
-        "title": "AllyGunkz Store",
+  "storeInfo": {
+    "title": "AllyGunkz Store",
+    "author": "allygunkz",
+    "description": "My Scratch games wirelessly",
+    "url": "https://githubusercontent.com",
+    "file": "game.unistore",
+    "revision": 1,
+    "version": 3
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "Shooting Games",
         "author": "allygunkz",
-        "description": "My Scratch games wirelessly",
-        "url": "https://githubusercontent.com",
-        "file": "game.unistore",
-        "revision": 1,
-        "version": 3
-    },
-    "storeContent": [
+        "description": "My first scratch game",
+        "category": ["game"],
+        "console": ["3DS"],
+        "version": "v1.0"
+      },
+      "ShootingGames.sb3": [
         {
-            "info": {
-                "title": "Shooting Games",
-                "author": "allygunkz",
-                "description": "My first scratch game",
-                "category": ["game"],
-                "console": ["3DS"],
-                "version": "v1.0"
-            },
-            "ShootingGames.sb3": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://github.com/allygunkz/scratcheverywherestore/raw/refs/heads/main/ShootingGames.sb3",
-                    "output": "sdmc:/3ds/scratch-everywhere/ShootingGames.sb3"
-                }
-            ]
+          "type": "downloadFile",
+          "file": "https://githubusercontent.com",
+          "output": "sdmc:/3ds/scratch-everywhere/ShootingGames.sb3"
         }
-    ]
+      ]
+    }
+  ]
 }
